@@ -15,5 +15,5 @@ jobs:
           node-version: '24.x'
       - name: Install Dependencies
         run: npm ci
-        working-direcotry: 04-using-actions/react-app
+        working-directory: 04-using-actions/react-app
       
